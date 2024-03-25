@@ -1,0 +1,43 @@
+.Header {
+    height: 100vh;
+    width: 100%;
+}
+.accueil-pic {
+    width: 100%;
+    height: 630px;
+}
+
+.map-text {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 50px;
+}
+
+.logo {
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-right: 850px;
+    text-decoration: none;
+}
+
+.links {
+    display: inline;
+    margin-top: 12px;
+}
+
+.links a {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+    font-weight: bold;
+    margin: 22px 16px;
+}
